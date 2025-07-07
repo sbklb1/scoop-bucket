@@ -15,7 +15,7 @@
         ]
     ],
     "post_install": [
-        "New-Item -ItemType SymbolicLink -Path 'C:\Program Files\Siril' -Target '$dir' "
+        "New-Item -ItemType SymbolicLink -Path 'C:\\Program Files\\Siril' -Target '$dir' "
     ],
     "checkver": {
         "url": "https://siril.org/download/",
