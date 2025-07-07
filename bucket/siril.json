@@ -1,5 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
+    "##": "Use admin shell to get post_install symlinks setup correctly",
     "version": "1.4.0-beta2",
     "description": "Astronomical image processing software",
     "homepage": "https://siril.org/",
@@ -22,7 +23,6 @@
         "echo remove symbolic link $dir",
         "Remove-Item -Path 'C:\\Program Files\\Siril' -Force"
     ],
-
     "checkver": {
         "url": "https://siril.org/download/",
         "regex": "siril-(.+)_win\\.zip"
