@@ -6,22 +6,22 @@ on:
         workflows: [Excavator]
         types: [completed]
 
-name: Update Readme
+name: Update README
 jobs:
     updateReadme:
-        name: Update Readme
+        name: Update README
         runs-on: windows-latest
         steps:
             - uses: actions/checkout@main
               with:
                 fetch-depth: 1
-            - name: Generate Readme.md
+            - name: Generate README.md
               run: .\scripts\Generate-Readme.ps1
               shell: pwsh
             - name: Push updates
               run: |
                 git config user.name "Github Actions"
                 git config user.email "<>"
-                git add Readme.md
-                git commit -m "[Bot] Update readme"
+                git add README.md
+                git commit -m "[Bot] Update README.md"
                 git push origin main
