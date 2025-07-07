@@ -15,9 +15,14 @@
         ]
     ],
     "post_install": [
-        "echo $dir",
+        "echo setup symbolic link $dir",
         "New-Item -ItemType SymbolicLink -Path 'C:\\Program Files\\Siril' -Target $dir "
     ],
+    "post_uninstall": [
+        "echo remove symbolic link $dir",
+        "Remove-Item -Path 'C:\\Program Files\\Siril' -Force"
+    ],
+
     "checkver": {
         "url": "https://siril.org/download/",
         "regex": "siril-(.+)_win\\.zip"
