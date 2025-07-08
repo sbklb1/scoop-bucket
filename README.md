@@ -13,6 +13,7 @@ scoop install sbklb1/<app_name>
 
 | Name | Description | Version |
 |------|-------------|---------|
+|[serplayer](https://web.archive.org/web/20230604160505/https://sites.google.com/site/astropipp/ser-player)|1.7.2|A video player for playing LuCam Recorder SER files used for planetary, lunar and solar captures.
 |[siril](https://siril.org/)|1.4.0-beta2|Astronomical image processing software
 
 ## How do I contribute new manifests?
