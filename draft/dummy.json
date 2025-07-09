@@ -3,5 +3,7 @@
   "version": "0.1",
   "description": "dummy draft",
   "homepage": "https://github.com/sbklb1/scoop-bucket/",
-  "license": "freeware"
+  "license": "freeware",
+  "url": "https://github.com/sbklb1/scoop-bucket/blob/main/draft/hello.ps1",
+  "bin": "hello.ps1"  
 }
