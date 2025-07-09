@@ -4,6 +4,6 @@
   "description": "dummy draft",
   "homepage": "https://github.com/sbklb1/scoop-bucket/",
   "license": "freeware",
-  "url": "https://github.com/sbklb1/scoop-bucket/blob/main/draft/hello.ps1",
+  "url": "https://gist.githubusercontent.com/sbklb1/7c897c1f8ee28882577b13c04dd96218/raw/7a5ff4bab807eaa43b2c6feb282c3502259c0056/hello.ps1"
   "bin": "hello.ps1"  
 }
