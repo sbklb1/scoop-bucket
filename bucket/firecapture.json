@@ -1,6 +1,5 @@
 {
   "version": "2.7.15",
-  "##": "user must download the file first to downloads directory due to download security method in webpage",
   "description": "Planetary image capture software by Thorsten Edelmann",
   "homepage": "https://www.firecapture.de/",
   "license": {
