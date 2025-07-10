@@ -20,10 +20,11 @@
   ],
   "checkver": {
     "url": "https://www.autostakkert.com/wp/download/",
-        "regex": "AutoStakkert ([\\d.]+)"
+    "regex": "AutoStakkert (\\d+\\.\\d+\\.\\d+)"
   },
   "autoupdate": {
     "64bit": {
       "url": "https://www.astrokraai.nl/software/AutoStakkert_$version_x64.zip"
     }
+  }
 }
