@@ -20,7 +20,7 @@
   ],
   "checkver": {
     "url": "https://firecapture.de/",
-    "regex": "FC v(\\d+\\.\\d+\\.\\d+) \(x64\)"
+    "regex": "FC v(\\d+\\.\\d+\\.\\d+) \\(x64\\)"
   },
   "autoupdate": {
     "architecture": {
