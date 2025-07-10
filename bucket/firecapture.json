@@ -1,12 +1,12 @@
 {
   "version": "2.7.15",
+  "##": "user must download the file first to downloads directory due to download security method in webpage",
   "description": "Planetary image capture software by Thorsten Edelmann",
   "homepage": "https://www.firecapture.de/",
   "license": {
     "identifier": "Freeware",
     "url": "https://www.firecapture.de/license.html"
   },
-  "notes": "user must download the file first to downloads directory due to download security method in webpage",
   "architecture": {
     "64bit": {
       "url": "file:///c:/users/sbklb/downloads/firecapture_v2.7.15.zip",
