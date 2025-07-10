@@ -25,7 +25,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-	"url": "file:///c:/users/sbklb/downloads/firecapture_v$version.zip"
+        "url": "file:///c:/users/sbklb/downloads/firecapture_v$version.zip"
       }
     }
   }
