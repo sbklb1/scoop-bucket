@@ -24,6 +24,6 @@
   },
   "autoupdate": {
     "64bit": {
-      "url": "https://www.astrokraai.nl/software/AutoStakkert_$version_x64.zip",
+      "url": "https://www.astrokraai.nl/software/AutoStakkert_$version_x64.zip"
     }
 }
