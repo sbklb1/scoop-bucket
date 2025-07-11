@@ -17,7 +17,6 @@
     }
   },
   "innosetup": true,
-  "extract_to": "astap",
   "bin": [
     "astap_cli.exe",
     "dcraw.exe",
