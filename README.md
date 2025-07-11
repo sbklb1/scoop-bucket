@@ -13,7 +13,7 @@ scoop install sbklb1/<app_name>
 
 | Name | Description | Version |
 |------|-------------|---------|
-|[astap](https://www.hnsky.org/astap.htm)|2025-07-08|astronomical stacking program, plate solver, and fits file viewer
+|[astap](https://www.hnsky.org/astap.htm)|2025|astronomical stacking program, plate solver, and fits file viewer
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
 |[firecapture](https://www.firecapture.de/)|2.7.15|Planetary image capture software by Thorsten Edelmann
 |[microsoft-ice](https://archive.org/details/microsoft-ice-2.0.3)|2.0.3|An advanced panoramic image stitcher created by Microsoft Research Interactive Visual Media Group
