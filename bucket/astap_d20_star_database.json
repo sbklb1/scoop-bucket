@@ -16,8 +16,8 @@
     ],
     "post_uninstall": [
       "echo remove symbolic link $dir",
-      "if (!(Test-Path \"$dir\\..\\..\\astap\\current\")) { "Remove-Item -Path \"$dir\\..\\..\\astap\\current\\file.1486\" -Force } # symlink",
-                                                          ],
+      "if (!(Test-Path \"$dir\\..\\..\\astap\\current\")) { Remove-Item -Path \"$dir\\..\\..\\astap\\current\\file.1486\" -Force } # symlink",
+    ],
     "checkver": {
       "url": "https://www.hnsky.org/astap.htm",
       "regex": "D20 was fixed on ([\\d-]+)"
