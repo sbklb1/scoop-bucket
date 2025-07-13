@@ -18,7 +18,7 @@ scoop install sbklb1/<app_name>
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
 |[firecapture](https://www.firecapture.de/)|2.7.15|Planetary image capture software by Thorsten Edelmann
 |[graxpert-rc](https://graxpert.com/)|3.1.0rc2|Release candidate for fast and easy way to remove gradients from astrophotography images
-|[graxpert](https://graxpert.com/)|2.0.3|A fast and easy way to remove gradients from astrophotography images
+|[graxpert](https://graxpert.com/)|3.0.2|A fast and easy way to remove gradients from astrophotography images
 |[microsoft-ice](https://archive.org/details/microsoft-ice-2.0.3)|2.0.3|An advanced panoramic image stitcher created by Microsoft Research Interactive Visual Media Group
 |[serplayer](https://web.archive.org/web/20230604160505/https://sites.google.com/site/astropipp/ser-player)|1.7.2|A video player for playing LuCam Recorder SER files used for planetary, lunar and solar captures.
 |[siril](https://siril.org/)|1.4.0-beta3|Astronomical image processing software
