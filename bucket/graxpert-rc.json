@@ -13,10 +13,10 @@
   },
   "bin": [
     [
-      "graxpert.exe", 
+      "graxpert.exe",
       "graxpert-rc"
     ]
-  ]
+  ],
   "shortcuts": [
     [
       "GraXpert-rc.exe",
