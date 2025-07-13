@@ -30,5 +30,10 @@
       "starnet"
     ]
   ],
-  "notes": "Manually copy tensorflow.dll to PixInsight\bin or setup PI repositories"
+  "notes": [
+    "Manually copy tensorflow.dll to PixInsight\bin or setup PI repositories",
+    "  https://pixinsight.starnetastro.com/",
+    "  https://pixinsight.starnetastro.com/tensorflow/",
+    "Add these to PI through Resources -> Updates -> Manage Repositories"
+  ]
 }
