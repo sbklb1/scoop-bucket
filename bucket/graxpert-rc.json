@@ -11,11 +11,11 @@
       "hash": "B8BF6F410F159854B6693999098F9DF93939C9AFB7E93417F7BF1FDA0EE54479"
     }
   },
-  "bin": "graxpert.exe",
+  "bin": "graxpert-rc.exe",
   "shortcuts": [
     [
-      "GraXpert.exe",
-      "GraXpert"
+      "GraXpert-rc.exe",
+      "GraXpert-rc"
     ]
   ],
   "checkver": {
