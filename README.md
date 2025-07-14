@@ -16,7 +16,7 @@ scoop install sbklb1/<app_name>
 |[astap_d20_star_database](https://www.hnsky.org/astap.htm)|2023-6-21|D20 star database for astap astronomical stacking program and plate solver
 |[astap](https://www.hnsky.org/astap.htm)|2025|astronomical stacking program, plate solver, and fits file viewer
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
-|[cosmicclaritysuite](https://www.setiastro.com/cosmic-clarity)|6.5 AI3.5s-c|AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software
+|[cosmicclaritysuite](https://www.setiastro.com/cosmic-clarity)|6.5|AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software
 |[firecapture](https://www.firecapture.de/)|2.7.15|Planetary image capture software by Thorsten Edelmann
 |[graxpert-rc](https://graxpert.com/)|3.1.0rc2|Release candidate for fast and easy way to remove gradients from astrophotography images
 |[graxpert](https://graxpert.com/)|3.0.2|A fast and easy way to remove gradients from astrophotography images
