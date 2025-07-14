@@ -7,7 +7,7 @@
     "license": "Freeware",
     "url": "file:///c:/Users/sbklb/downloads/CosmicClaritySuite_Windows.zip",
     "hash": "F656FB772C363BEEAD1FF638ADFFA142C669FA4ECB28715262B440B23B9248F6",
-    "extracted_dir": "CosmicClaritySuite_Windows",
+    "extract_dir": "CosmicClaritySuite_Windows",
     "notes": "Requires local file due to google drive size.  Separately add to PixInsight as repository through this location: https://raw.githubusercontent.com/setiastro/cosmicclarity/main/",
     "bin": [
       "setiastrobenchmark.exe",
