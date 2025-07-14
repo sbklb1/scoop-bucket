@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json",
     "##": "User must download from google:  https://drive.google.com/drive/folders/1MKsuA4XgIMd0cJshJHEWdN782cXvzR3Y",
-    "version": "6.5 AI3.5s-c",
+    "version": "6.5",
     "description": "AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software",
     "homepage": "https://www.setiastro.com/cosmic-clarity",
     "license": "Freeware",
