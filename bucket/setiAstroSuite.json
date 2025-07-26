@@ -19,7 +19,7 @@
       "regex": "SetiAstroSuite_V(.+)"
     },
     "autoupdate": {
-      "url": "https://github.com/setiastro/setiastrosuite/releases/download/$version/setiastrosuite_windows.zip"
+      "url": "https://github.com/setiastro/setiastrosuite/releases/download/V$version/setiastrosuite_windows.zip"
     }
 }
 
