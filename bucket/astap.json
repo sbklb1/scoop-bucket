@@ -30,7 +30,7 @@
     ],
     "checkver": {
         "url": "https://www.hnsky.org/astap.htm",
-        "regex": "v(\\d+\\.\\d+\\.\\d+)"
+        "regex": "ASTAP_installer.*_?v(\\d+\\.\\d+\\.\\d+)"
     },
     "autoupdate": {
         "architecture": {
