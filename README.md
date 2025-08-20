@@ -14,7 +14,7 @@ scoop install sbklb1/<app_name>
 | Name | Description | Version |
 |------|-------------|---------|
 |[astap_d20_star_database](https://www.hnsky.org/astap.htm)|2023-6-21|D20 star database for astap astronomical stacking program and plate solver
-|[astap](https://www.hnsky.org/astap.htm)|2025.08.11|astronomical stacking program, plate solver, and fits file viewer
+|[astap](https://www.hnsky.org/astap.htm)|2025.08.20|astronomical stacking program, plate solver, and fits file viewer
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
 |[cosmicclaritysuite](https://www.setiastro.com/cosmic-clarity)|6.5|AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software
 |[firecapture](https://www.firecapture.de/)|2.7.15|Planetary image capture software by Thorsten Edelmann
@@ -22,7 +22,7 @@ scoop install sbklb1/<app_name>
 |[graxpert](https://graxpert.com/)|3.0.2|A fast and easy way to remove gradients from astrophotography images
 |[microsoft-ice](https://archive.org/details/microsoft-ice-2.0.3)|2.0.3|An advanced panoramic image stitcher created by Microsoft Research Interactive Visual Media Group
 |[serplayer](https://web.archive.org/web/20230604160505/https://sites.google.com/site/astropipp/ser-player)|1.7.2|A video player for playing LuCam Recorder SER files used for planetary, lunar and solar captures.
-|[setiAstroSuite](https://www.setiastro.com/seti-astros-editng-suite)|2.21.5|Full featured astronomical image processing software
+|[setiAstroSuite](https://www.setiastro.com/seti-astros-editng-suite)|2.21.6|Full featured astronomical image processing software
 |[siril](https://siril.org/)|1.4.0-beta3|Astronomical image processing software
 |[starnet](https://www.starnetastro.com/download/)|v2.0.2|Astronomy star removal program to create high quality images of deep space objects.
 
