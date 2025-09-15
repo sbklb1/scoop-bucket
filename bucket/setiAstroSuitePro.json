@@ -16,7 +16,7 @@
     ],
     "checkver": {
       "url": "https://github.com/setiastro/setiastrosuitepro/releases",
-      "regex": "SetiAstroSuite_V(.+)</h2>"
+      "regex": "SetiAstroSuitePro_V(.+)</h2>"
     },
     "autoupdate": {
         "url": "https://github.com/setiastro/setiastrosuitepro/releases/download/V$version/setiastrosuitepro_windows.zip"
