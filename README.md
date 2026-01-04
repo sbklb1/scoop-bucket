@@ -14,7 +14,7 @@ scoop install sbklb1/<app_name>
 | Name | Description | Version |
 |------|-------------|---------|
 |[astap_d20_star_database](https://www.hnsky.org/astap.htm)|2023-6-21|D20 star database for astap astronomical stacking program and plate solver
-|[astap](https://www.hnsky.org/astap.htm)|2025.12.28|astronomical stacking program, plate solver, and fits file viewer
+|[astap](https://www.hnsky.org/astap.htm)|2026.01.04|astronomical stacking program, plate solver, and fits file viewer
 |[astrocatalogueviewer](https://astro-catalogue-viewer.com/)|1.3.6-beta|Organize and browse deep‑sky catalog images with speed and clarity
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
 |[cosmicclaritysuite](https://www.setiastro.com/cosmic-clarity)|6.5|AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software
@@ -24,7 +24,7 @@ scoop install sbklb1/<app_name>
 |[microsoft-ice](https://archive.org/details/microsoft-ice-2.0.3)|2.0.3|An advanced panoramic image stitcher created by Microsoft Research Interactive Visual Media Group
 |[serplayer](https://web.archive.org/web/20230604160505/https://sites.google.com/site/astropipp/ser-player)|1.7.2|A video player for playing LuCam Recorder SER files used for planetary, lunar and solar captures.
 |[setiAstroSuite](https://www.setiastro.com/seti-astros-editng-suite)|2.22.1|Full featured astronomical image processing software
-|[setiAstroSuitePro](https://www.setiastro.com/seti-astro-suite-pro)|1.6.9|Full featured astronomical image processing software
+|[setiAstroSuitePro](https://www.setiastro.com/seti-astro-suite-pro)|1.6.10|Full featured astronomical image processing software
 |[siril](https://siril.org/)|1.4.0|Astronomical image processing software
 |[starnet](https://www.starnetastro.com/download/)|v2.0.2|Astronomy star removal program to create high quality images of deep space objects.
 
