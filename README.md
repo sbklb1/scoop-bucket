@@ -15,7 +15,7 @@ scoop install sbklb1/<app_name>
 |------|-------------|---------|
 |[astap_d20_star_database](https://www.hnsky.org/astap.htm)|2023-6-21|D20 star database for astap astronomical stacking program and plate solver
 |[astap](https://www.hnsky.org/astap.htm)|2026.01.08|astronomical stacking program, plate solver, and fits file viewer
-|[astrocatalogueviewer](https://astro-catalogue-viewer.com/)|1.6.3-beta|Organize and browse deep‑sky catalog images with speed and clarity
+|[astrocatalogueviewer](https://astro-catalogue-viewer.com/)|1.6.5-beta|Organize and browse deep‑sky catalog images with speed and clarity
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
 |[cosmicclaritysuite](https://www.setiastro.com/cosmic-clarity)|6.5|AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software
 |[firecapture](https://www.firecapture.de/)|2.7.15|Planetary image capture software by Thorsten Edelmann
