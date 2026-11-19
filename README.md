@@ -16,6 +16,7 @@ scoop install sbklb1/<app_name>
 |[astap_d20_star_database](https://www.hnsky.org/astap.htm)|2023-6-21|D20 star database for astap astronomical stacking program and plate solver
 |[astap](https://www.hnsky.org/astap.htm)|2026.11.12|astronomical stacking program, plate solver, and fits file viewer
 |[astrocatalogueviewer](https://astro-catalogue-viewer.com/)|3.0-beta|Organize and browse deep‑sky catalog images with speed and clarity
+|[astroWizard](https://lukomatico.com)|2026-11-18|Free astrophotography image processing software for Windows
 |[autostakkert](https://www.autostakkert.com/wp/download/)|4.0.13|Astronomy stacking software – alignment and stacking of image sequences, minimizing the influence of atmospheric distortions (seeing) to create high quality images of the planets, sun, and the moon.
 |[cosmicclaritysuite](https://www.setiastro.com/cosmic-clarity)|6.5|AI Based Sharpening, Denoising , Satellite Trail Removal, Super Resolution, and now Dark Star (star removal) astrophotographic processing software
 |[firecapture](https://www.firecapture.de/)|2.7.15|Planetary image capture software by Thorsten Edelmann
@@ -26,6 +27,7 @@ scoop install sbklb1/<app_name>
 |[setiAstroSuite](https://www.setiastro.com/seti-astros-editng-suite)|2.22.1|Full featured astronomical image processing software
 |[setiAstroSuitePro](https://www.setiastro.com/seti-astro-suite-pro)|1.24.6|Full featured astronomical image processing software
 |[siril](https://siril.org/)|1.4.5-ucrt64|Astronomical image processing software
+|[stackingWizard](https://lukomatico.com)|2026-11-18|Astronomical sub-frame calibration, grading, alignment, and stacking software
 |[starnet](https://www.starnetastro.com/download/)|v2.0.2|Astronomy star removal program to create high quality images of deep space objects.
 
 ## How do I contribute new manifests?
