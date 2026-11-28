@@ -27,7 +27,7 @@ scoop install sbklb1/<app_name>
 |[setiAstroSuite](https://www.setiastro.com/seti-astros-editng-suite)|2.22.1|Full featured astronomical image processing software
 |[setiAstroSuitePro](https://www.setiastro.com/seti-astro-suite-pro)|2.0.1|Full featured astronomical image processing software
 |[siril](https://siril.org/)|1.4.5-ucrt64|Astronomical image processing software
-|[stackingWizard](https://lukomatico.com)|2026-11-18|Astronomical sub-frame calibration, grading, alignment, and stacking software
+|[stackingWizard](https://lukomatico.com)|2026-11-28|Astronomical sub-frame calibration, grading, alignment, and stacking software
 |[starnet](https://www.starnetastro.com/download/)|v2.0.2|Astronomy star removal program to create high quality images of deep space objects.
 
 ## How do I contribute new manifests?
